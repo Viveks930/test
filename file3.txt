@@ -1,0 +1,2 @@
+hello this is my new file to commit in git repo 
+i am learning git and github
