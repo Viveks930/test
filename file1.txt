@@ -3,3 +3,4 @@ commiting some changes
 
 another commit change
 add another changes
+another fix for purple mode
